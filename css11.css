@@ -1,13 +1,15 @@
-#h {
-    border: 2px solid red;
-    width: 600px;
-    border-radius: 10px 10px 10px 10px;
-    padding: 3%
+.box1 {
+    border: 3px solid red;
+    border-radius: 20px; 
+    padding: 15px;
+    margin: 20px 0;
+    width: 80%;
 }
 
-#g {
-    border: 2px solid red;
-    width: 600px;
-    border-radius: 45px 10px 45px 10px;
-    padding: 3%;
+.box2 {
+    border: 3px solid red;
+    border-radius: 50px 20px 50px 20px; 
+    padding: 15px;
+    margin: 20px 0;
+    width: 80%;
 }
